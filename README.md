@@ -23,3 +23,4 @@
 1. Дашборд анализа рынка недвижимости: https://datalens.yandex/5h1mrv235h40s
 2. Дашборд со статистикой проведенных конференций TED: https://datalens.yandex/pzabthl8hcxwc
 3. Дашборд ключевых бизнес-метрик рынка общественного питания: https://datalens.yandex/81e9vlolss1su
+4. Дашборд динамики работы приложения "Яндекс Афиша": https://datalens.yandex/27aw4va0h3wwo 
